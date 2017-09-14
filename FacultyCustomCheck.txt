@@ -1,0 +1,44 @@
+Aloke Kumar Saha:Associate Professor and Head:Email-aloke@uap-bd.edu | headcse@uap-bd.edu:A
+Dr. Bilkis Jamal Ferdosi:Associate Professor:Email-bjferdosi@uap-bd.edu:B
+Dr. Md. Rashedul Islam:Associate Professor:Email-rashed.cse@uap-bd.edu | rashed.cse@gmail.com:R
+Dr. Md. Shahriar Rahman:Associate Professor:Email-shahriar.rahman@uap-bd.edu:S
+Shaila Rahman:Assistant Professor:Email-shaila@uap-bd.edu:S
+Shammi Akhtar:Assistant Professor:Email-shammi@uap-bd.edu:S
+Md. Firoz Mridha:Assistant Professor:Email-firoz@uap-bd.edu:F
+Dr. Shahera Hossain:Assistant Professor:Email-shaherahossain@uap-bd.edu:S
+Md. Akhtaruzzaman Adnan:Assistant Professor:Email-adnan.cse@uap-bd.edu:A
+A S Zafourullah Momtaz:Assistant Professor:Email-zaforullah@uap-bd.edu:Z
+Molla Rashied Hussein:Assistant Professor:Email-mrh.cse@uap-bd.edu:M
+Nadeem Ahmed:Assistant Professor:Email-nadeem@uap-bd.edu:N
+Md. Asiful Hossain:Assistant Professor:Email-asif.hossain@uap-bd.edu:A
+Dr. Nasima Begum:Email-nasima.cse@uap-bd.edu:N
+Dr. Md. Rajibul Islam:Assistant Professor:Email-md.rajibul.islam@uap-bd.edu:R
+Jahir Ibna Rafiq:Lecturer:Email:jahir@uap-bd.edu:J
+Abdul Kawsar Tushar:Lecturer:Email-tushar.kawsar@uap-bd.edu:A
+Risul Islam:Lecturer:Email-risulcse09@uap-bd.edu:R
+Ms. Anika Anwar:Lecturer:Email-anika.cse@uap-bd.edu:A
+Suman Bhadra:Lecturer:Email-suman.cse@uap-bd.edu:S
+Hanif Bhuiyan:Lecturer:Email-hanif_tushar.cse@uap-bd.edu:H
+Md. Imran Bin Azad:Lecturer:Email-imranbinazad@uap-bd.edu:I
+Gazi Md. Hasnat Zahan:Lecturer:Email-hasnatzahan@uap-bd.edu:G
+Afia Afrin:Lecturer:Email-meghla1011@uap-bd.edu:A
+Abdullah Al Omar:Lecturer:Email-omar.cs@uap-bd.edu:A
+Dr. Rafi Md. Najmus Sadat:Assistant Professor:No Email:R
+Dr. Khan Md. Anwarus Salam:Assistant Professor:Email-khansalam@uap-bd.edu:K
+Nahida Sultana Chowdhury:Assistant Professor:Email-nchowdhury@uap-bd.edu:S
+Hasan Mahmood Aminul Islam:Lecturer:Email-hasan@uap-bd.edu:H
+Ferdous Ahmed Kawsar:Lecturer:No Email:F
+Ms. Tania Rahman:Lecturer:Email-tania@uap-bd.edu:T
+Shebuti Rayana:Lecturer:Email-sebuti@uap-bd.edu:S
+Mohammad Majharul Islam:Lecturer:Email-majhar999@uap-bd.edu:M
+Md Anit Khan:Lecturer:Email -anitkhan@uap-bd.edu:A
+Taslima Akter:Lecturer:Email-taslima.cse@uap-bd.edu:T
+Md. Mohaimenul Hossain:Lecturer:Email-mohaimen.hossain@uap-bd.edu:M
+Md. Habibur Rahman:Lecturer:Email-habib@uap-bd.edu:H
+
+
+
+
+
+
+

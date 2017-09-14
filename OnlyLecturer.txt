@@ -1,0 +1,73 @@
+
+
+		Lecturer
+		---------------
+		Jahir Ibna Rafiq
+		B.Sc (UK)
+		Email:jahir@uap-bd.edu  
+
+
+		Lecturer
+		---------------
+		Abdul Kawsar Tushar
+		B. Sc in CSE, BUET
+		Email:tushar.kawsar@uap-bd.edu 
+
+
+		Lecturer
+		---------------
+		Risul Islam
+		B. Sc in CSE, BUET
+		Email:risulcse09@uap-bd.edu 
+
+
+		Lecturer
+		---------------
+		Ms. Anika Anwar
+		B. Sc in CSE, BUET
+		MIT(Research) Monash University 
+		Email:anika.cse@uap-bd.edu 
+
+
+		Lecturer
+		---------------
+		Suman Bhadra
+		B.Sc. in CSE, JU
+		Email: suman.cse@uap-bd.edu  
+
+
+		Lecturer
+		---------------
+		Hanif Bhuiyan
+		M.E. in CIE, Inha University
+		B.Sc. in CSE, AUST
+		Email: hanif_tushar.cse@uap-bd.edu  
+
+
+		Lecturer
+		---------------
+		Md. Imran Bin Azad
+		MS in CSE, DU 
+		BSc in CSE, DU
+		Email: imranbinazad@uap-bd.edu  
+
+
+		Lecturer
+		---------------
+		Gazi Md. Hasnat Zahan
+		B.Sc- CSE, IUT
+		Email: hasnatzahan@uap-bd.edu  
+
+
+		Lecturer
+		---------------
+		Afia Afrin
+		B.Sc in CSE, BUET
+		Email: meghla1011@uap-bd.edu  
+
+
+		Lecturer
+		---------------
+		Abdullah Al Omar
+		B.Sc. in CSE, UAP
+		Email: omar.cs@uap-bd.edu 
